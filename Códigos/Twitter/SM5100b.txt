@@ -1,0 +1,4 @@
+Link de importancia
+http://tronixstuff.wordpress.com/tag/sm5100b/
+Indica la conexion que se debe realizar para Arduino Mega
+
